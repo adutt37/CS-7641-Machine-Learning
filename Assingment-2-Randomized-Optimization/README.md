@@ -6,9 +6,19 @@ Simulated Annealing (SA)
 Genetic Algorithm (GA)
 MIMIC (Mutual Information Maximizing Input Clustering)
 
-Requirements
-To run the code, install the following Python packages:
-pip install mlrose-hiive numpy pandas matplotlib seaborn scikit-learn
+Instructions to Execute the Python Files on your local machine:
+1. First, clone the repository to your local machine
+   git clone https://github.com/adutt37/CS-7641-Machine-Learning.git
+   nagivate to folder Assingment-2-Randomized-Optimization
+
+2. Install Dependencies.
+    pip install mlrose-hiive numpy pandas matplotlib seaborn scikit-learn
+   
+4. Prepare the Datasets
+Ensure that the datasets (phishing_web.csv) are present in the root directory of the project.
+
+4. Execute the Python Scripts
+To run the Python functions, follow these steps:
 
 Run the Knapsack algorithms with the following command:
 execute file py knapsack_random_search_algo.py
