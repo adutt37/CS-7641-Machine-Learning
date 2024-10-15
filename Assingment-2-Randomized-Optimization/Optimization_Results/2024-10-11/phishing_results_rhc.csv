@@ -1,0 +1,9 @@
+RHC,10,training accuracy,28.28,training time,0.12,testing accuracy,29.30,testing time,0.00
+RHC,100,training accuracy,28.72,training time,1.25,testing accuracy,29.91,testing time,0.00
+RHC,500,training accuracy,28.77,training time,6.84,testing accuracy,29.97,testing time,0.00
+RHC,10,training accuracy,28.28,training time,0.16,testing accuracy,29.30,testing time,0.00
+RHC,100,training accuracy,28.72,training time,1.88,testing accuracy,29.91,testing time,0.01
+RHC,500,training accuracy,28.77,training time,8.74,testing accuracy,29.97,testing time,0.00
+RHC,1000,training accuracy,31.42,training time,13.32,testing accuracy,31.96,testing time,0.00
+RHC,2500,training accuracy,41.29,training time,52.71,testing accuracy,42.63,testing time,0.00
+RHC,5000,training accuracy,50.30,training time,106.63,testing accuracy,51.40,testing time,0.00
