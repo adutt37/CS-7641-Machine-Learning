@@ -1,4 +1,5 @@
 Machine Learning Model Comparisons
+
 This project contains Python scripts to train and evaluate different machine learning models on two datasets: phishing_web.csv and student_performance.csv. The models implemented include:
 
 Multilayer Perceptron (MLP) Classifier
@@ -67,16 +68,17 @@ Description: Compares the performance (accuracy) of multiple classifiers (SVM, K
 Example Usage:
 compare_classifiers('phishing_web.csv', test_size=0.5)
 
-Instructions to Execute the Python Files
+Instructions to Execute the Python Files on your local machine:
 1. First, clone the repository to your local machine
-
+   git clone https://github.com/adutt37/CS-7641-Machine-Learning.git
+   
 2. Install Dependencies.
-
-3. Prepare the Datasets
+    pandas, numpy, scikit-learn, matplotlib, seaborn and tensorflow
+   
+4. Prepare the Datasets
 Ensure that the datasets (phishing_web.csv and student_performance.csv) are present in the root directory of the project.
 
 4. Execute the Python Scripts
-
 To run the Python functions, follow these steps:
 
 Open a Terminal (or Command Prompt)
